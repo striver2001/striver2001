@@ -18,7 +18,7 @@ I code, learn, and iterate 👨‍💻
 
 ### Talking about Personal Stuff:
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/striver2001).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/striver2001?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shivam032/)! I am happy to help.
 - 📫 &nbsp; How to reach me: vshivam2024@gmail.com.
 
