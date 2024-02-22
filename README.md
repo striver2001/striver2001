@@ -8,7 +8,7 @@
 </h2>
 
 
-[![Linkedin: shivam](https://img.shields.io/badge/shivam3112-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam032/)
+[![Linkedin: shivam](https://img.shields.io/badge/shivam032-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam032/)
 
 <img align="right" alt="GIF of Me" width="375" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
@@ -73,9 +73,6 @@ I code, learn, and iterate 👨‍💻
     </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=striver2001&show_icons=true&locale=en" alt="striver2001" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sah-shivam&show_icons=true&locale=en&layout=compact" alt="Shivam Verma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sah-shivam&show_icons=true&locale=en" alt="Shivam Verma" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=striver2001&" alt="striver2001" /></p>
